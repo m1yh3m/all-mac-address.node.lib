@@ -1,6 +1,6 @@
 {
   "name": "@m1yh3m/all-mac-address.node.lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It's just a node library. This function returns a string or throws an error if platform is not supported.",
   "main": "index.js",
   "scripts": {
