@@ -1,0 +1,20 @@
+{
+  "name": "@m1yh3m/all-mac-address.node.lib",
+  "version": "1.0.0",
+  "description": "It's just a node library. This function returns a string or throws an error if platform is not supported.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/all-mac-address.node.lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1yh3m/all-mac-address.node.lib/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/all-mac-address.node.lib#readme"
+}
